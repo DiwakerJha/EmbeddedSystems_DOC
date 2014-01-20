@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.20)  20 JAN 2014 18:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.20)  20 JAN 2014 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -355,12 +355,8 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.105 \item F
-             irst 20 Minutes will be for basic introduction of: [1]
-
-LaTeX Warning: Citation `Figueredo:2009dg' on page 2 undefined on input line 12
-4.
-
-[2] [3]
+             irst 20 Minutes will be for basic introduction of: [1] [2]
+[3]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no œ in font cmti12!
@@ -381,18 +377,14 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `Workshop_doC.out' has not changed.
 (rerunfilecheck)             Checksum: A4781208B65018A0084BD216F1961D4E;313.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
  ) 
 Here is how much of TeX's memory you used:
- 5877 strings out of 493315
- 86802 string characters out of 6137904
+ 5875 strings out of 493315
+ 86769 string characters out of 6137904
  266544 words of memory out of 5000000
- 9242 multiletter control sequences out of 15000+600000
- 9965 words of font info for 35 fonts, out of 8000000 for 9000
+ 9240 multiletter control sequences out of 15000+600000
+ 9658 words of font info for 34 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  29i,4n,28p,431b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -403,7 +395,7 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
 ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Workshop_doC.pdf (6 pages, 135260 bytes).
+Output written on Workshop_doC.pdf (6 pages, 134849 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  123 compressed objects within 2 object streams
