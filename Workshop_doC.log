@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.20)  20 JAN 2014 21:30
-=======
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.20)  20 JAN 2014 19:51
->>>>>>> d1ad8b06bb1811d06bf7519e773d9750eec4e59f
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.20)  20 JAN 2014 22:06
 entering extended mode
  %&-line parsing enabled.
 **Workshop_doC.tex
@@ -284,11 +280,10 @@ LaTeX Info: Redefining \pageref on input line 26.
 \openout3 = `Workshop_doC.out'.
 
 \AtBeginShipoutBox=\box30
+ <Pictures/banner.jpg, id=27, 2489.3pt x 576.1525pt>
+File: Pictures/banner.jpg Graphic file (type jpg)
 
-<Pictures/circuits.jpg, id=27, 938.50626pt x 375.4025pt>
-File: Pictures/circuits.jpg Graphic file (type jpg)
-
-<use Pictures/circuits.jpg>
+<use Pictures/banner.jpg>
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
@@ -311,9 +306,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--56
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Pictures/circuits.jpg>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Pictures/banner.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 92.
- (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -337,57 +333,24 @@ Overfull \hbox (50.04623pt too wide) in paragraph at lines 184--185
 SP430 _ LaunchPad _ (MSP-[]EXP430G2)$[] 
  []
 
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
- (./Workshop_doC.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
-Package rerunfilecheck Info: File `Workshop_doC.out' has not changed.
-(rerunfilecheck)             Checksum: A4781208B65018A0084BD216F1961D4E;313.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
- ) 
+[5] (./Workshop_doC.aux) ) 
 Here is how much of TeX's memory you used:
- 5875 strings out of 493315
- 86769 string characters out of 6137904
- 266544 words of memory out of 5000000
- 9240 multiletter control sequences out of 15000+600000
- 9658 words of font info for 34 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 29i,4n,28p,431b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
-ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Workshop_doC.pdf (6 pages, 134849 bytes).
-=======
-[5] (./Workshop_doC.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
-Here is how much of TeX's memory you used:
- 4848 strings out of 495061
- 69769 string characters out of 1182621
+ 4846 strings out of 495061
+ 69726 string characters out of 1182621
  230386 words of memory out of 3000000
- 7930 multiletter control sequences out of 15000+50000
- 9965 words of font info for 35 fonts, out of 3000000 for 9000
+ 7928 multiletter control sequences out of 15000+50000
+ 9658 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,4n,36p,431b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/publ
-ic/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Workshop_doC.pdf (6 pages, 147795 bytes).
->>>>>>> d1ad8b06bb1811d06bf7519e773d9750eec4e59f
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
+/cm/cmtt12.pfb>
+Output written on Workshop_doC.pdf (6 pages, 493582 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  44 named destinations out of 1000 (max. 500000)
