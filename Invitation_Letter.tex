@@ -1,0 +1,55 @@
+% % invitation letter for Sanjeet's event!
+\documentclass[11pt,stdletter,dateno,sigleft]{newlfm} % Extra options: 'sigleft' for a left-aligned signature, 'stdletternofrom' to remove the from address, 'letterpaper' for US letter paper - consult the newlfm class manual for more options
+\usepackage{microtype}
+\usepackage{charter} % Use the Charter font for the document text
+\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+
+\newsavebox{\Luiuc}\sbox{\Luiuc}{\parbox[b]{1.3in}{\vspace{0.5in}
+\includegraphics[width=1.1\linewidth]{embeddedSystemsW.png}}} % Company/institution logo at the top left of the page
+\makeletterhead{Uiuc}{\Lheader{\usebox{\Luiuc}}}
+\newlfmP{sigsize=1pt} % Slightly decrease the height of the signature field
+\newlfmP{addrfromphone} % Print a phone number under the sender's address
+\newlfmP{addrfromemail} % Print an email address under the sender's address
+\PhrPhone{Local phone} % Customize the "Telephone" text
+\PhrEmail{Email} % Customize the "E-mail" text
+
+\lthUiuc % Print the company/institution logo
+\namefrom{Sanjeet Raj Pandey} % Name
+\addrfrom{
+\today\\[10pt] % Date
+\textbf{Sanjeet Raj Pandey}\\
+Technische Universität Berlin\\
+Telecommunication Networks Group (TKN)\\
+Einsteinufer 25, FT 5\\
+10587 Berlin, Germany\\
+Tel.: +49-30-314-23819\\
+}
+\phonefrom{984408129738} % Phone number
+\emailfrom{workshop@lifemachine.net} % Email address
+% to
+\greetto{Dear Madam/Sir,} % Greeting text
+\closeline{Sincerely yours,} % Closing text
+
+\nameto{To educational institution in} % Addressee of the letter above the to address
+
+\addrto{
+Janakpurdham
+Nepal\\[10pt]
+\textbf{Subject: Letter of invitation to  the workshop on Embedded Systems}
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+\begin{newlfm}
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+We are pleased to invite 5 of your students, who have extraordinary interest in the field of engineering. We are organizing a workshop on embedded systems at the conference hall of the hotel Manaki on 10 \& 11 March 2014. The workshop is aimed to providing hands on experience with basic-electronics, micro-controllers, and cutting edge development in high-speed programmable chips. The students will also have an opportunity to learn functional implementation of these devices. We will focus on basics of embedded systems, simplicity in programming and electronics, how physical world stimuli can be converted to digital form, how the signals look like and how to interpret and use them. For instance, a planned exercise is to measure the speed of a moving object using ultrasonic waves and use it to trigger some other event.
+ 
+The number of participants per institution is fixed due to the limited resources that we can bring from Germany. The standard target group comprise of the students from \textbf{grade 9 onwards including engineering candidates}. The students, who do not fulfill this criteria has to show special motivation to qualify for the participation. We will provide the micro-controller kits (Texas instruments and ATMEL), breadboards  and a common digital oscilloscope. There is a possibility for participating institution to procure the devices for their extracurricular activity inventory (see enclosed document). The participation cost per institute is Rs. 3500. 
+
+We hope to give students a chance to: raise their horizon of engineering thinking, achieve new level of confidence in their knowledge, learn by doing, and develop more practical understanding of science and engineering.\\[5pt]
+\end{newlfm}
+\end{document}
