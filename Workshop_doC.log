@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.20)  24 JAN 2014 01:17
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.20)  24 JAN 2014 01:18
 entering extended mode
  %&-line parsing enabled.
 **Workshop_doC.tex
@@ -362,10 +362,10 @@ SP430 _ LaunchPad _ (MSP-[]EXP430G2)$[]
 
 [5] (./Workshop_doC.aux) ) 
 Here is how much of TeX's memory you used:
- 6040 strings out of 495061
- 91843 string characters out of 1182621
- 194607 words of memory out of 3000000
- 9063 multiletter control sequences out of 15000+50000
+ 6036 strings out of 495061
+ 91754 string characters out of 1182621
+ 194503 words of memory out of 3000000
+ 9059 multiletter control sequences out of 15000+50000
  11142 words of font info for 58 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  38i,4n,36p,431b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
