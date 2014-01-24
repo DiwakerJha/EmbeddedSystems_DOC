@@ -3,7 +3,7 @@
 \usepackage{microtype}
 \usepackage{charter} % Use the Charter font for the document text
 \graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
-
+\microtypesetup{protrusion=true} % enables protrusion
 \newsavebox{\Luiuc}\sbox{\Luiuc}{\parbox[b]{1.3in}{\vspace{1in}
 \includegraphics[width=1.1\linewidth]{embeddedSystemsW.png}}} % Company/institution logo at the top left of the page
 \makeletterhead{Uiuc}{\Lheader{\usebox{\Luiuc}}}
