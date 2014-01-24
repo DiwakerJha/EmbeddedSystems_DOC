@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.20)  24 JAN 2014 01:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.20)  24 JAN 2014 01:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -521,17 +521,17 @@ AED: lastpage setting LastPage
 (./Invitation_Letter.aux) ) 
 Here is how much of TeX's memory you used:
  5900 strings out of 493315
- 84478 string characters out of 6137904
+ 84475 string characters out of 6137904
  199410 words of memory out of 5000000
  9242 multiletter control sequences out of 15000+600000
  13957 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,12n,45p,877b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,45p,880b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/
 base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/bitstrea/charter/bc
 hb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/bitstrea/charter/bchr8
 a.pfb>
-Output written on Invitation_Letter.pdf (1 page, 53755 bytes).
+Output written on Invitation_Letter.pdf (1 page, 53768 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
