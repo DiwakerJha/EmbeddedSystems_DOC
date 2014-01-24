@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.20)  24 JAN 2014 01:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.1.20)  24 JAN 2014 01:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -277,8 +277,8 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 All language information must be in newlfm.cls
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/letter.cls
 Document Class: letter 1999/04/29 v1.2z Standard LaTeX document class
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \longindentation=\dimen106
 \indentedwidth=\dimen107
@@ -493,14 +493,12 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 42.
+(Font)              <7> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 42.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 42.
+(Font)              <5> on input line 42.
 
-Underfull \hbox (badness 2269) in paragraph at lines 42--42
-[]\OT1/bch/m/n/10.95 (+20) institutions in
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]\OT1/bch/m/n/10 (+20) institutions in
  []
 
 
@@ -520,18 +518,18 @@ res/embeddedSystemsW.png>]
 AED: lastpage setting LastPage
 (./Invitation_Letter.aux) ) 
 Here is how much of TeX's memory you used:
- 5903 strings out of 493315
- 84499 string characters out of 6137904
- 199410 words of memory out of 5000000
- 9242 multiletter control sequences out of 15000+600000
- 14205 words of font info for 53 fonts, out of 8000000 for 9000
+ 5878 strings out of 493315
+ 84220 string characters out of 6137904
+ 199332 words of memory out of 5000000
+ 9232 multiletter control sequences out of 15000+600000
+ 10722 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,12n,45p,893b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/
 base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/bitstrea/charter/bc
 hb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/bitstrea/charter/bchr8
 a.pfb>
-Output written on Invitation_Letter.pdf (1 page, 53774 bytes).
+Output written on Invitation_Letter.pdf (1 page, 53891 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
