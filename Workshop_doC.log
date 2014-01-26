@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.20)  26 JAN 2014 00:14
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.20)  26 JAN 2014 02:29
 entering extended mode
  %&-line parsing enabled.
 **Workshop_doC.tex
@@ -343,7 +343,12 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.113 	\item R
-              eading temperature value [1] [2] [3]
+              eading temperature value [1] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 145.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 145.
+ [3]
 Missing character: There is no ‚ in font cmti12!
 Missing character: There is no Ä in font cmti12!
 Missing character: There is no ú in font cmti12!
@@ -351,31 +356,32 @@ Missing character: There is no ‚ in font cmti12!
 Missing character: There is no Ä in font cmti12!
 Missing character: There is no ù in font cmti12!
 
-Overfull \hbox (14.09702pt too wide) in paragraph at lines 177--178
+Overfull \hbox (14.09702pt too wide) in paragraph at lines 178--179
 [][]$\OT1/cmtt/m/n/12 http : / / processors . wiki . ti . com / index . php / M
 SP430 _ LaunchPad _ (MSP-[]EXP430G2)$[] 
  []
 
 [4] (./Workshop_doC.aux) ) 
 Here is how much of TeX's memory you used:
- 6037 strings out of 495061
- 91810 string characters out of 1182621
+ 6056 strings out of 495061
+ 92158 string characters out of 1182621
  194664 words of memory out of 3000000
- 9062 multiletter control sequences out of 15000+50000
- 11449 words of font info for 59 fonts, out of 3000000 for 9000
+ 9076 multiletter control sequences out of 15000+50000
+ 11551 words of font info for 61 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 38i,4n,36p,433b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,36p,492b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10
 .pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
-share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/publ
-ic/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmtt12.pfb>
-Output written on Workshop_doC.pdf (5 pages, 1065359 bytes).
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Workshop_doC.pdf (5 pages, 1089730 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 16950 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 20022 words of extra memory for PDF output out of 20736 (max. 10000000)
 
